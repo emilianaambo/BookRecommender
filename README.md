@@ -5,6 +5,8 @@ Project Description:
 This project aims at Building a Book Recommendation System by using the Book Crossing dataset which was collected by Cai-   Nicolas Ziegler in 2004. It contains 278,858 user data and provides 1,149,780 ratings (explicit / implicit) and about     271,379 books. 
 The dataset can be downloaded as a zip from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).
 
+**Script to Download and Extract the complete data (zip) can be [found here](https://github.com/emilianaambo/BookRecommender/blob/master/script/get_raw.py).**
+
 ### Preview of data:
 * Books Data (BX-Books.csv) 
 
