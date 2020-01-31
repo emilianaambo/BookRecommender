@@ -19,7 +19,7 @@ The dataset can be downloaded as a zip from [here](http://www2.informatik.uni-fr
   Columns: 'userID', 'location', 'age' 
 
 
-## This project contains two notebooks:
+## This project contains two Notebooks:
 1. Data Cleaning/Analysis: can be found [here](https://github.com/emilianaambo/BookRecommender/blob/master/notebooks/1%20Data%20Analysis_Cleaning%20Book%20Recommendation.ipynb).
 
 2. Data Modeling (Machine Learning): can be found [here](https://github.com/emilianaambo/BookRecommender/blob/master/notebooks/2%20Machine%20Learning%20Book%20Recommendation.ipynb).
