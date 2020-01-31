@@ -27,7 +27,7 @@ The dataset can be downloaded as a zip from [here](http://www2.informatik.uni-fr
    Achieved using Collaborative filtering: Alternating Least Square matrix (ALS) algorithm.
  
 ## Data (processed)
-The final cleaned dataset used for the machine learning part is limited to only 50000 records out of about 383842 (also size limitations, too large to upload on github), just for  test purposes can be found [here](https://github.com/emilianaambo/BookRecommender/tree/master/data.csv).
+**The final cleaned dataset used for the machine learning part** is limited to only 50000 records out of about 383842 (also size limitations, too large to upload on github), just for  test purposes **can be found [here](https://github.com/emilianaambo/BookRecommender/tree/master/data.csv).
 
 
 ## Required Frameworks/Libraries
